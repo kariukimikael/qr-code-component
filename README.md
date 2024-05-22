@@ -7,8 +7,8 @@
 4. Using Bootstrap components and stylings to make development faster and easier.
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/kariukimikael/qr-code-component)
+- Live Site URL: [live site URL](https://kariukimikael.github.io/qr-code-component/)
 
 ## Tech Stack
 - React Js
